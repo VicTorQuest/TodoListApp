@@ -16,7 +16,7 @@ This is a simple TypeScript-based Todo List application that allows users to man
 1. Ensure you have **Node.js** installed.
 2. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone git@github.com:VicTorQuest/TodoListApp.git
    cd <project-folder>
    ```
 3. Install dependencies:
